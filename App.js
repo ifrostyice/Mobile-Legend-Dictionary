@@ -1,0 +1,1 @@
+import './asset/app/index.js'
