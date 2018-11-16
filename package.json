@@ -1,5 +1,5 @@
 {
-  "name": "MLHDictionary",
+  "name": "app2",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -8,15 +8,17 @@
   },
   "dependencies": {
     "native-base": "^2.8.1",
-    "react": "16.6.0-alpha.8af6728",
-    "react-native": "0.57.4",
+    "react": "16.3.1",
+    "react-base": "^0.2.0",
+    "react-native": "0.55.4",
+    "react-native-base": "^1.1.0",
     "react-navigation": "^2.18.2"
   },
   "devDependencies": {
     "babel-jest": "23.6.0",
+    "babel-preset-react-native": "4.0.1",
     "jest": "23.6.0",
-    "metro-react-native-babel-preset": "0.49.0",
-    "react-test-renderer": "16.6.0-alpha.8af6728"
+    "react-test-renderer": "16.3.1"
   },
   "jest": {
     "preset": "react-native"
